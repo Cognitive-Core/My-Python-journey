@@ -17,6 +17,6 @@ elif hour >= 12 and hour < 18 :
 elif hour >= 18 and hour < 21:
     print("Good evening")
 else :
-    print("Good night")
+    print("good night")
 
 
